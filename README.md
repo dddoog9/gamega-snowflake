@@ -7,4 +7,4 @@ Snowflake is an arcade game in which you control a snowflake, collecting Christm
 ![Screenshot](screenshot.png)
 
 ## LICENSE
-[MIT](LICENSE.md)
+[MIT](LICENSE)
